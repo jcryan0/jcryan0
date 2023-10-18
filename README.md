@@ -4,4 +4,4 @@ I'm Jaylen, or simply Jay, and I'm a cybersecurity student and programmer from t
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamjaylen&count_private=true&line_height=21&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcryan0&count_private=true&line_height=21&show_icons=true&theme=dracula)
